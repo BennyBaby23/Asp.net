@@ -8,8 +8,13 @@ This is server-side technologies are major contributing to the development of th
 
 
 Few important advantages:
+
 ->ASP.NET allows over extra web development principles.
+
 ->The source code & HTML are together, therefore, ASP.NET pages simple to maintain.
+
 ->It provides excellent performance by taking benefits of early binding, just-in-time collection .
+
 ->Those provide a lot of strength & flexibility to the web pages.
+
 ->ASP.NET makes for effortless deployment.
